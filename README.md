@@ -1,12 +1,12 @@
 
 <p align="center">
-
+  <a href="">
     <img
       alt="Node.js"
       src="https://github.com/faisaljubayer/WebDB/blob/master/resources/images/webdb-logo.png?raw=true"
       width="400"
     />
-  
+  </a>
 </p>
 
 
@@ -16,14 +16,15 @@ WebDB is a general purpose database created in C. This database was created to s
 
 # Architecture 
 This database is heavily inspired by sqlite and thus it follows the same architecture that sqlite does. 
-<p align="center">
 
+<p align="center">
+  <a href="">
     <img
       alt="Node.js"
       src="https://github.com/faisaljubayer/WebDB/blob/master/resources/images/arch2.gif?raw=true"
       width="400"
     />
-
+  </a>
 </p>
 
 **But more and more algorithms are added to the database to make storing and manipulating data a programmer's breeze.**
